@@ -6,15 +6,12 @@ public class DemoTesteArray {
 
   public static void main(String[] args) {
 
-     Scanner scan = new Scanner(System.in);
+    Scanner scan = new Scanner(System.in);
     int tamanho;
-   
+
     System.out.println("Entre com o tamanho: ");
-    tamanho=scan.nextInt();
-    
-   
-    }
-    
+    tamanho = scan.nextInt();
+
   }
 
 }
