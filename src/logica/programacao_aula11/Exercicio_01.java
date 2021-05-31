@@ -17,7 +17,6 @@ public class Exercicio_01 {
     for (int i =9; i >= 0; i--) {
       System.out.print(numero[i] + " ");
        
-
     }
     scan.close();
   }
